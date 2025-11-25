@@ -1,0 +1,7 @@
+# Ignore .dll's
+glew32.dll
+glfw3.dll
+# Ignore build files
+*.o
+# Ignore final build
+SpaceTime.exe
